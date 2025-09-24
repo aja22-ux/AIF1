@@ -3,6 +3,30 @@
 title: Allograft Inflammatory Factor-1 (AIF1)
 layout: default
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AIF1 – The Little Protein with a Big Impact</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="hero">
+    <h1>Allograft Inflammatory Factor 1</h1>
+    <p>The Little Protein with a Big Impact</p>
+    <div class="video-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/YOURVIDEOID" 
+              frameborder="0" allowfullscreen></iframe>
+    </div>
+    <a class="button" href="expression.html">Explore AIF1 Structure & Function</a>
+  </header>
+  <footer>
+    <p>&copy; 2025 AIF1 Project</p>
+  </footer>
+</body>
+</html>
+
 
 # 🧬 Allograft Inflammatory Factor-1 (AIF1)
 
